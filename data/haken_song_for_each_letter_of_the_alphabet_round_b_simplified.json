@@ -1,0 +1,422 @@
+{
+    "post": {
+        "id": "14eoj4d",
+        "author": "Lehtspelt",
+        "title": "Haken song for each letter of the alphabet. Round B.",
+        "selftext": "The choices are:\n\nBecause It's There\n\nBound by Gravity\n\nBeneath the White Rainbow",
+        "created_utc": 1687298063,
+        "urls": {
+            "long": "https://www.reddit.com/r/Haken/comments/14eoj4d/haken_song_for_each_letter_of_the_alphabet_round_b/",
+            "short": "https://redd.it/14eoj4d"
+        }
+    },
+    "comments": {
+        "0": {
+            "position": 1,
+            "author": "Lilith_Immaculate_",
+            "timestamp": {
+                "unix_utc": 1687298315,
+                "gmt_string": "Tue, 20 Jun 2023 21:58:35 GMT"
+            },
+            "body": "Beneath the White Rainbow",
+            "song": "Beneath the White Rainbow",
+            "csv": "1 , Lilith_Immaculate_ , 1687298315 , Tue, 20 Jun 2023 21:58:35 GMT , song"
+        },
+        "1": {
+            "position": 2,
+            "author": "P-O-F",
+            "timestamp": {
+                "unix_utc": 1687298516,
+                "gmt_string": "Tue, 20 Jun 2023 22:01:56 GMT"
+            },
+            "body": "Because It's There",
+            "song": "Because It's There",
+            "csv": "2 , P-O-F , 1687298516 , Tue, 20 Jun 2023 22:01:56 GMT , song"
+        },
+        "2": {
+            "position": 3,
+            "author": "Skriller_plays",
+            "timestamp": {
+                "unix_utc": 1687298546,
+                "gmt_string": "Tue, 20 Jun 2023 22:02:26 GMT"
+            },
+            "body": "Bound by Gravity",
+            "song": "Bound by Gravity",
+            "csv": "3 , Skriller_plays , 1687298546 , Tue, 20 Jun 2023 22:02:26 GMT , song"
+        },
+        "3": {
+            "position": 4,
+            "author": "MazZzmo",
+            "timestamp": {
+                "unix_utc": 1687299023,
+                "gmt_string": "Tue, 20 Jun 2023 22:10:23 GMT"
+            },
+            "body": "Beneath the White Rainbow !!!",
+            "song": "Beneath the White Rainbow",
+            "csv": "4 , MazZzmo , 1687299023 , Tue, 20 Jun 2023 22:10:23 GMT , song"
+        },
+        "4": {
+            "position": 5,
+            "author": "fahrenheit1221",
+            "timestamp": {
+                "unix_utc": 1687299106,
+                "gmt_string": "Tue, 20 Jun 2023 22:11:46 GMT"
+            },
+            "body": "Beneath the White Rainbow",
+            "song": "Beneath the White Rainbow",
+            "csv": "5 , fahrenheit1221 , 1687299106 , Tue, 20 Jun 2023 22:11:46 GMT , song"
+        },
+        "5": {
+            "position": 6,
+            "author": "SiliconEaglet",
+            "timestamp": {
+                "unix_utc": 1687299165,
+                "gmt_string": "Tue, 20 Jun 2023 22:12:45 GMT"
+            },
+            "body": "Beneath the white rainbow!",
+            "song": "Beneath the White Rainbow",
+            "csv": "6 , SiliconEaglet , 1687299165 , Tue, 20 Jun 2023 22:12:45 GMT , song"
+        },
+        "6": {
+            "position": 7,
+            "author": "Ratistim_2",
+            "timestamp": {
+                "unix_utc": 1687299690,
+                "gmt_string": "Tue, 20 Jun 2023 22:21:30 GMT"
+            },
+            "body": "Because Its There 100%",
+            "song": "Because It's There",
+            "csv": "7 , Ratistim_2 , 1687299690 , Tue, 20 Jun 2023 22:21:30 GMT , song"
+        },
+        "7": {
+            "position": 8,
+            "author": "98thRedBalloon",
+            "timestamp": {
+                "unix_utc": 1687299915,
+                "gmt_string": "Tue, 20 Jun 2023 22:25:15 GMT"
+            },
+            "body": "Because It's There",
+            "song": "Because It's There",
+            "csv": "8 , 98thRedBalloon , 1687299915 , Tue, 20 Jun 2023 22:25:15 GMT , song"
+        },
+        "8": {
+            "position": 9,
+            "author": "Ami0958",
+            "timestamp": {
+                "unix_utc": 1687300108,
+                "gmt_string": "Tue, 20 Jun 2023 22:28:28 GMT"
+            },
+            "body": "Bound by gravity\nc'mon people it's literally the best",
+            "song": "Bound by Gravity",
+            "csv": "9 , Ami0958 , 1687300108 , Tue, 20 Jun 2023 22:28:28 GMT , song"
+        },
+        "9": {
+            "position": 10,
+            "author": "notyouraveragecrow",
+            "timestamp": {
+                "unix_utc": 1687300136,
+                "gmt_string": "Tue, 20 Jun 2023 22:28:56 GMT"
+            },
+            "body": "Though one, they are all so incredibly good. Gonna go with Beneath The White Rainbow tho",
+            "song": "Beneath the White Rainbow",
+            "csv": "10 , notyouraveragecrow , 1687300136 , Tue, 20 Jun 2023 22:28:56 GMT , song"
+        },
+        "10": {
+            "position": 11,
+            "author": "Chloes_Other_Account",
+            "timestamp": {
+                "unix_utc": 1687300832,
+                "gmt_string": "Tue, 20 Jun 2023 22:40:32 GMT"
+            },
+            "body": "Beneath the white rainbow",
+            "song": "Beneath the White Rainbow",
+            "csv": "11 , Chloes_Other_Account , 1687300832 , Tue, 20 Jun 2023 22:40:32 GMT , song"
+        },
+        "11": {
+            "position": 12,
+            "author": "Ian-Adkinson",
+            "timestamp": {
+                "unix_utc": 1687300864,
+                "gmt_string": "Tue, 20 Jun 2023 22:41:04 GMT"
+            },
+            "body": "This is gonna be a fierce battle. I’m going with BBG tho.",
+            "song": "Bound by Gravity",
+            "csv": "12 , Ian-Adkinson , 1687300864 , Tue, 20 Jun 2023 22:41:04 GMT , song"
+        },
+        "12": {
+            "position": 13,
+            "author": "Ok_Consideration_142",
+            "timestamp": {
+                "unix_utc": 1687300932,
+                "gmt_string": "Tue, 20 Jun 2023 22:42:12 GMT"
+            },
+            "body": "Beneath the white rainbow",
+            "song": "Beneath the White Rainbow",
+            "csv": "13 , Ok_Consideration_142 , 1687300932 , Tue, 20 Jun 2023 22:42:12 GMT , song"
+        },
+        "13": {
+            "position": 14,
+            "author": "ImpendingPancake",
+            "timestamp": {
+                "unix_utc": 1687303196,
+                "gmt_string": "Tue, 20 Jun 2023 23:19:56 GMT"
+            },
+            "body": "Bound by Gravity for sure.",
+            "song": "Bound by Gravity",
+            "csv": "14 , ImpendingPancake , 1687303196 , Tue, 20 Jun 2023 23:19:56 GMT , song"
+        },
+        "14": {
+            "position": 15,
+            "author": "drmjsty",
+            "timestamp": {
+                "unix_utc": 1687303746,
+                "gmt_string": "Tue, 20 Jun 2023 23:29:06 GMT"
+            },
+            "body": "Beneath the white rainbow!",
+            "song": "Beneath the White Rainbow",
+            "csv": "15 , drmjsty , 1687303746 , Tue, 20 Jun 2023 23:29:06 GMT , song"
+        },
+        "15": {
+            "position": 16,
+            "author": "dood45ctte",
+            "timestamp": {
+                "unix_utc": 1687304222,
+                "gmt_string": "Tue, 20 Jun 2023 23:37:02 GMT"
+            },
+            "body": "Gotta be Bound by Gravity",
+            "song": "Bound by Gravity",
+            "csv": "16 , dood45ctte , 1687304222 , Tue, 20 Jun 2023 23:37:02 GMT , song"
+        },
+        "16": {
+            "position": 17,
+            "author": "Dark0knight93",
+            "timestamp": {
+                "unix_utc": 1687304523,
+                "gmt_string": "Tue, 20 Jun 2023 23:42:03 GMT"
+            },
+            "body": "Bound by Gravity",
+            "song": "Bound by Gravity",
+            "csv": "17 , Dark0knight93 , 1687304523 , Tue, 20 Jun 2023 23:42:03 GMT , song"
+        },
+        "17": {
+            "position": 18,
+            "author": "acf259",
+            "timestamp": {
+                "unix_utc": 1687304942,
+                "gmt_string": "Tue, 20 Jun 2023 23:49:02 GMT"
+            },
+            "body": "White Rainbow!",
+            "song": "Beneath the White Rainbow",
+            "csv": "18 , acf259 , 1687304942 , Tue, 20 Jun 2023 23:49:02 GMT , song"
+        },
+        "18": {
+            "position": 19,
+            "author": "macadrums",
+            "timestamp": {
+                "unix_utc": 1687309215,
+                "gmt_string": "Wed, 21 Jun 2023 01:00:15 GMT"
+            },
+            "body": "Bound by Gravity",
+            "song": "Bound by Gravity",
+            "csv": "19 , macadrums , 1687309215 , Wed, 21 Jun 2023 01:00:15 GMT , song"
+        },
+        "19": {
+            "position": 20,
+            "author": "DigitalCardboard775",
+            "timestamp": {
+                "unix_utc": 1687309491,
+                "gmt_string": "Wed, 21 Jun 2023 01:04:51 GMT"
+            },
+            "body": "Bound by Gravity",
+            "song": "Bound by Gravity",
+            "csv": "20 , DigitalCardboard775 , 1687309491 , Wed, 21 Jun 2023 01:04:51 GMT , song"
+        },
+        "20": {
+            "position": 21,
+            "author": "CucatheGreat",
+            "timestamp": {
+                "unix_utc": 1687310236,
+                "gmt_string": "Wed, 21 Jun 2023 01:17:16 GMT"
+            },
+            "body": "Because it’s There",
+            "song": "Because It's There",
+            "csv": "21 , CucatheGreat , 1687310236 , Wed, 21 Jun 2023 01:17:16 GMT , song"
+        },
+        "21": {
+            "position": 22,
+            "author": "Missing2005",
+            "timestamp": {
+                "unix_utc": 1687315218,
+                "gmt_string": "Wed, 21 Jun 2023 02:40:18 GMT"
+            },
+            "body": "Rainbow, bbg is damn close",
+            "song": "Beneath the White Rainbow",
+            "csv": "22 , Missing2005 , 1687315218 , Wed, 21 Jun 2023 02:40:18 GMT , song"
+        },
+        "22": {
+            "position": 23,
+            "author": "CoachGymGreen56",
+            "timestamp": {
+                "unix_utc": 1687315258,
+                "gmt_string": "Wed, 21 Jun 2023 02:40:58 GMT"
+            },
+            "body": "Bound by gravity",
+            "song": "Bound by Gravity",
+            "csv": "23 , CoachGymGreen56 , 1687315258 , Wed, 21 Jun 2023 02:40:58 GMT , song"
+        },
+        "23": {
+            "position": 24,
+            "author": "ExtrapolatedData",
+            "timestamp": {
+                "unix_utc": 1687321045,
+                "gmt_string": "Wed, 21 Jun 2023 04:17:25 GMT"
+            },
+            "body": "Because It’s There for me. The vocals at the beginning are why I fell in love with Haken.",
+            "song": "Because It's There",
+            "csv": "24 , ExtrapolatedData , 1687321045 , Wed, 21 Jun 2023 04:17:25 GMT , song"
+        },
+        "24": {
+            "position": 25,
+            "author": "caboose391",
+            "timestamp": {
+                "unix_utc": 1687323299,
+                "gmt_string": "Wed, 21 Jun 2023 04:54:59 GMT"
+            },
+            "body": "Bthe Architect.",
+            "song": "invalid entry",
+            "csv": "25 , caboose391 , 1687323299 , Wed, 21 Jun 2023 04:54:59 GMT , song"
+        },
+        "25": {
+            "position": 26,
+            "author": "DerivativeOfProgWeeb",
+            "timestamp": {
+                "unix_utc": 1687328715,
+                "gmt_string": "Wed, 21 Jun 2023 06:25:15 GMT"
+            },
+            "body": "Because it's there hands down",
+            "song": "Because It's There",
+            "csv": "26 , DerivativeOfProgWeeb , 1687328715 , Wed, 21 Jun 2023 06:25:15 GMT , song"
+        },
+        "26": {
+            "position": 27,
+            "author": "Polygarra",
+            "timestamp": {
+                "unix_utc": 1687329018,
+                "gmt_string": "Wed, 21 Jun 2023 06:30:18 GMT"
+            },
+            "body": "Because it's there is really good, but Bound by Gravity is just on another level",
+            "song": "Bound by Gravity",
+            "csv": "27 , Polygarra , 1687329018 , Wed, 21 Jun 2023 06:30:18 GMT , song"
+        },
+        "27": {
+            "position": 28,
+            "author": "nobleAristocrat",
+            "timestamp": {
+                "unix_utc": 1687330493,
+                "gmt_string": "Wed, 21 Jun 2023 06:54:53 GMT"
+            },
+            "body": "Beneath the white rainbow!",
+            "song": "Beneath the White Rainbow",
+            "csv": "28 , nobleAristocrat , 1687330493 , Wed, 21 Jun 2023 06:54:53 GMT , song"
+        },
+        "28": {
+            "position": 29,
+            "author": "peterjohns_",
+            "timestamp": {
+                "unix_utc": 1687335206,
+                "gmt_string": "Wed, 21 Jun 2023 08:13:26 GMT"
+            },
+            "body": "B the moon and sun",
+            "song": "invalid entry",
+            "csv": "29 , peterjohns_ , 1687335206 , Wed, 21 Jun 2023 08:13:26 GMT , song"
+        },
+        "29": {
+            "position": 30,
+            "author": "peterjohns_",
+            "timestamp": {
+                "unix_utc": 1687336336,
+                "gmt_string": "Wed, 21 Jun 2023 08:32:16 GMT"
+            },
+            "body": "Has to be bound by gravity",
+            "song": "Bound by Gravity",
+            "csv": "30 , peterjohns_ , 1687336336 , Wed, 21 Jun 2023 08:32:16 GMT , song"
+        },
+        "30": {
+            "position": 31,
+            "author": "marlinology",
+            "timestamp": {
+                "unix_utc": 1687337865,
+                "gmt_string": "Wed, 21 Jun 2023 08:57:45 GMT"
+            },
+            "body": "Because It's There T_T",
+            "song": "Because It's There",
+            "csv": "31 , marlinology , 1687337865 , Wed, 21 Jun 2023 08:57:45 GMT , song"
+        },
+        "31": {
+            "position": 32,
+            "author": "sadforgottenchild",
+            "timestamp": {
+                "unix_utc": 1687338116,
+                "gmt_string": "Wed, 21 Jun 2023 09:01:56 GMT"
+            },
+            "body": "Bound By Gravity",
+            "song": "Bound by Gravity",
+            "csv": "32 , sadforgottenchild , 1687338116 , Wed, 21 Jun 2023 09:01:56 GMT , song"
+        },
+        "32": {
+            "position": 33,
+            "author": "Maffsmiff",
+            "timestamp": {
+                "unix_utc": 1687341998,
+                "gmt_string": "Wed, 21 Jun 2023 10:06:38 GMT"
+            },
+            "body": "White rainbow",
+            "song": "Beneath the White Rainbow",
+            "csv": "33 , Maffsmiff , 1687341998 , Wed, 21 Jun 2023 10:06:38 GMT , song"
+        },
+        "33": {
+            "position": 34,
+            "author": "KobaltJ",
+            "timestamp": {
+                "unix_utc": 1687353950,
+                "gmt_string": "Wed, 21 Jun 2023 13:25:50 GMT"
+            },
+            "body": "Bound by Gravity easy",
+            "song": "Bound by Gravity",
+            "csv": "34 , KobaltJ , 1687353950 , Wed, 21 Jun 2023 13:25:50 GMT , song"
+        },
+        "34": {
+            "position": 35,
+            "author": "IlTosi",
+            "timestamp": {
+                "unix_utc": 1687355789,
+                "gmt_string": "Wed, 21 Jun 2023 13:56:29 GMT"
+            },
+            "body": "Beneath the white rainbow",
+            "song": "Beneath the White Rainbow",
+            "csv": "35 , IlTosi , 1687355789 , Wed, 21 Jun 2023 13:56:29 GMT , song"
+        },
+        "35": {
+            "position": 36,
+            "author": "orein123",
+            "timestamp": {
+                "unix_utc": 1687375829,
+                "gmt_string": "Wed, 21 Jun 2023 19:30:29 GMT"
+            },
+            "body": "Beneath the White Rainbow.",
+            "song": "Beneath the White Rainbow",
+            "csv": "36 , orein123 , 1687375829 , Wed, 21 Jun 2023 19:30:29 GMT , song"
+        },
+        "36": {
+            "position": 37,
+            "author": "DrunkenT3chno",
+            "timestamp": {
+                "unix_utc": 1687380774,
+                "gmt_string": "Wed, 21 Jun 2023 20:52:54 GMT"
+            },
+            "body": "Because it's there!",
+            "song": "Because It's There",
+            "csv": "37 , DrunkenT3chno , 1687380774 , Wed, 21 Jun 2023 20:52:54 GMT , song"
+        }
+    }
+}
