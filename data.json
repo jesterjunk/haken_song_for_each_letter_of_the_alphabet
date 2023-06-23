@@ -28,7 +28,36 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {
+            "0": {
+                "song": "Atlas Stone",
+                "votes": 10
+            },
+            "1": {
+                "song": "The Architect",
+                "votes": 7
+            },
+            "2": {
+                "song": "The Alphabet of Me",
+                "votes": 2
+            },
+            "3": {
+                "song": "Aquarium",
+                "votes": 2
+            },
+            "4": {
+                "song": "Messiah Complex II: A Glutton for Punishment",
+                "votes": 1
+            },
+            "5": {
+                "song": "Aquamedley",
+                "votes": 1
+            },
+            "6": {
+                "song": "affinity.exe",
+                "votes": 1
+            }
+        }
     },
     "1": {
         "letter": "B",
@@ -59,7 +88,24 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {
+            "0": {
+                "song": "Beneath the White Rainbow",
+                "votes": 14
+            },
+            "1": {
+                "song": "Bound by Gravity",
+                "votes": 13
+            },
+            "2": {
+                "song": "Because It's There",
+                "votes": 8
+            },
+            "3": {
+                "song": "invalid entry",
+                "votes": 2
+            }
+        }
     },
     "2": {
         "letter": "C",
@@ -90,38 +136,38 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "3": {
         "letter": "D",
-        "image": "",
-        "post_id": "",
-        "posted_by": "",
-        "timestamp": "",
-        "title": "",
+        "image": "D - 1f5f5ks2xr7b1.jpg",
+        "post_id": "14gz9tf",
+        "posted_by": "Lehtspelt, u/Lehtspelt, https://www.reddit.com/user/Lehtspelt/",
+        "timestamp": "Fri, Jun 23, 2023, 08:57:31 AM Central Daylight Time",
+        "title": "Haken song for each letter of the alphabet. Round D",
         "reddit": {
-            "id": "",
-            "slug": "",
+            "id": "14gz9tf",
+            "slug": "haken_song_for_each_letter_of_the_alphabet_round_d",
             "urls": {
-                "long": "",
-                "short": ""
+                "long": "https://www.reddit.com/r/Haken/comments/14gz9tf/haken_song_for_each_letter_of_the_alphabet_round_d/",
+                "short": "https://redd.it/14gz9tf"
             }
         },
         "song": {
             "artist": "Haken",
-            "title": "",
-            "duration": "",
-            "album": "",
-            "released": 0,
+            "title": "Drowning in the Flood",
+            "duration": "9:28",
+            "album": "Aquarius",
+            "released": 2010,
             "youtube": {
-                "id": "",
+                "id": "ai2U8Jv_Peg",
                 "urls": {
-                    "long": "",
-                    "short": ""
+                    "long": "https://www.youtube.com/watch?v=ai2U8Jv_Peg",
+                    "short": "https://youtu.be/ai2U8Jv_Peg"
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "4": {
         "letter": "E",
@@ -152,7 +198,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "5": {
         "letter": "F",
@@ -183,7 +229,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "6": {
         "letter": "G",
@@ -214,7 +260,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "7": {
         "letter": "H",
@@ -245,7 +291,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "8": {
         "letter": "I",
@@ -276,7 +322,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "9": {
         "letter": "J",
@@ -307,7 +353,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "10": {
         "letter": "K",
@@ -338,7 +384,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "11": {
         "letter": "L",
@@ -369,7 +415,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "12": {
         "letter": "M",
@@ -400,7 +446,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "13": {
         "letter": "N",
@@ -431,7 +477,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "14": {
         "letter": "O",
@@ -462,7 +508,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "15": {
         "letter": "P",
@@ -493,7 +539,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "16": {
         "letter": "Q",
@@ -524,7 +570,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "17": {
         "letter": "R",
@@ -555,7 +601,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "18": {
         "letter": "S",
@@ -586,7 +632,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "19": {
         "letter": "T",
@@ -617,7 +663,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "20": {
         "letter": "U",
@@ -648,7 +694,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "21": {
         "letter": "V",
@@ -679,7 +725,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "22": {
         "letter": "W",
@@ -710,7 +756,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "23": {
         "letter": "X",
@@ -741,7 +787,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "24": {
         "letter": "Y",
@@ -772,7 +818,7 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     },
     "25": {
         "letter": "Z",
@@ -803,6 +849,6 @@
                 }
             }
         },
-        "song_nominations": ""
+        "song_nominations": {}
     }
 }
